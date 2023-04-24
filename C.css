@@ -1,0 +1,18 @@
+body{
+    background-color: thistle;
+    margin-top: 5%;
+    margin-left:30% ;
+}
+
+.container{
+    font-size: 4.5vh;
+    padding: 20px;
+    margin-left: 20%;
+    margin-right: 90%;
+}
+
+button{
+    padding: 10px;
+    border: 2px solid gray;
+}
+
